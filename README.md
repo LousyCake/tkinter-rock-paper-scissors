@@ -2,7 +2,9 @@
 
 RPS: The Challenge Begins is a simple Rock, Paper, Scissors game developed using Python and Tkinter.
 
-![Game Screenshot](insert_game_screenshot_url_here)
+![Game Screenshot](Images/Game.png)
+![Themes Screenshot](Images/Themes.png)
+
 
 ## Table of Contents
 
