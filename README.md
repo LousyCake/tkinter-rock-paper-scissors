@@ -62,4 +62,6 @@ The game offers multiple themes for customization:
 Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request with your suggested changes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Feel free to customize the content further based on your project's specific details.
